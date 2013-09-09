@@ -1,7 +1,8 @@
 class BruceFactPlugin < Plugin
   # 
 @@facts = [
-
+"Fact1"
+"Fact2"
 ]
 
   def help(plugin, topic="")
@@ -13,6 +14,6 @@ class BruceFactPlugin < Plugin
   end
 end
 
-plugin = ExcusePlugin.new
-plugin.map "excuse"
+plugin = BruceFactPlugin.new
+plugin.map "brucefact"
 
