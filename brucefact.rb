@@ -9,8 +9,7 @@ class BruceFactPlugin < Plugin
     "brucefact => supply a random Bruce Schneier fact"
   end
 
-  def fact(m, params)
-    m.reply @@facts.pick_one
+  m.reply @@facts.pick_one
   end
 end
 
