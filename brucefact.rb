@@ -1,7 +1,7 @@
 class BruceFactPlugin < Plugin
   # 
 @@facts = [
-"Fact1"
+"Fact1",
 "Fact2"
 ]
 
