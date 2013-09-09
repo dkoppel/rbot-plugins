@@ -1,5 +1,15 @@
+#-- vim:sw=2:et
+#++
+#
+# :title: BruceFactPlugin
+#
+# Author:: David Koppel <admin@administrhater.com>
+# Copyright:: (C) 2013 David Koppel
+# License:: DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE http://www.wtfpl.net/txt/copying/
+#
+
 class BruceFactPlugin < Plugin
-  # 
+  # Facts from http://www.chmil.org/bruce-facts-all.txt 
 @@facts = [
 "Bruce Schneier got a perfect score on his comp-sci degree. Just by writing Bruce Schneier for every answer.",
 "Bruce Schneier memorizes his one time pads",
