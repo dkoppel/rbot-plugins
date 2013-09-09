@@ -1,0 +1,382 @@
+1:Bruce Schneier got a perfect score on his comp-sci degree. Just by writing Bruce Schneier for every answer.
+2:Bruce Schneier memorizes his one time pads
+3:Bruce Schneier can reverse any one-way cryptographic hash, just by staring it in the eye
+4:Bruce Schneier once found the inverse of a trapdoor function counting only on the fingers of one hand
+5:The output of Bruce Schneier's pseudorandom generator follows no describable pattern and cannot be compressed.
+6:Bruce Schneier mounts chosen-ciphertext attacks without choosing the ciphertext
+7:Beyond computational complexity, there is Schneiertational complexity
+8:Bruce Schneier can straighten out an elliptic curve with nothing but his teeth
+9:Bruce Schneier makes abstract algebra look like elementary algebra.
+10:Whitfield Diffie and Martin Hellman use only their surnames out of fear of Bruce Schneier
+11:Bruce Schneier can conduct secure multiparty computation... on his own
+12:Bruce Schneier mounts side-channel attacks through the front channel
+13:Bruce Schneier's discrete logarithms are uncountable and continuous
+14:Bruce Schneier always inhabits the soundness of error margin of your zero-knowledge crypto protocol
+15:When Bruce Schneier pre-computes S-box tables, he does it dynamically from the key... over breakfast.
+16:Bruce Schneier can determine the exact location and velocity of any particle that's being used by quantum cryptography.
+17:Quantum cryptography exchanged the Heisenberg Uncertainty Principle for the Schneier Dead Moral Certainty Principle when Bruce Schneier came to town.
+18:Bruce Schneier knows Alice and Bob's shared secret.
+19:Bruce Schneier eats 0s and 1s for breakfast. And snacks on pi.
+20:Bruce Schneier assembled assembly...with his bare hands!
+21:Bruce Schneier is computationally infeasible.
+22:A mystery wrapped in an Enigma is no more puzzling to Bruce Schneier than a mystery wrapped in ROT-13.
+23:Bruce Schneier doesn't even trust Trent. Trent has to trust Bruce Schneier.
+24:Bruce Schneier once found three distinct natural number divisors of a prime number.
+25:As Bruce Schneier says there is no Oscar for security theatre.
+26:Bruce Schneier's secure handshake is so strong, you won't be able to exchange keys with anyone else for days.
+27:Most people use passwords. Some people use passphrases. Bruce Schneier uses an epic passpoem, detailing the life and works of seven mythical Norse heroes.
+28:Bruce Schneier's online purchases are so secure, his shopping cart is an M-1 tank.
+29:Bruce Schneier doesn't need steganography to hide data in innocent-looking files. He just pounds it in with his fist.
+30:Bruce Schneier can solve NP-Complete problems in NlogN time.
+31:"When I wake up in the morning I piss cryptographic excellence." - Bruce Schneier
+32:Bruce Schneier's tears can burn holes through an OpenBSD firewall.  Lucky for us, Bruce Schneier never cries.
+33:Bruce Schneier writes his books and essays by generating random alphanumeric text of an appropriate length and then decrypting it.
+34:Bruce Schneier decrypted the Bible. The plaintext read, "Bruce Schneier".
+35:If you use the digits of Pi to generate a visual image, it draws a picture of Bruce Schneier.
+36:The universe was created to serve as Bruce Schneier's crib text.
+37:Bruce Schneier's public and private keys are known as "Law" and "Order."
+38:SSL is invulnerable to man-in-the-middle attacks. Unless that man is Bruce Schneier.
+39:When he was three, Bruce Schneier built an Enigma machine out of Legos.
+40:A vigenere cipher with the Key "BRUCESCHNEIER" is in fact unbreakable.
+41:Bruce Schneier fully discloses his own vulnerabilities: none.
+42:Bruce Schneier knows your private key.
+43:Bruce Schneier's Twofish algorithm has 16 rounds, but he always gets a knockout in the first.
+44:The nuclear launch codes held by the President of the United States are secured by an unbreakable system: a plain brown envelope with a picture of Bruce Schneier on the flap.
+45:Ron Rivest wears Bruce Schneier pajamas.
+46:Bruce Schneier was only allowed to view the Kryptos sculpture at Langley for 1 second, in order not to spoil the fun other cryptographers. It was 0.9 seconds too much.
+47:Bruce Schneier doesn't have a chin under his beard -- just more ciphertext.
+48:If at first you don't succeed at breaking a cipher, you're not Bruce Schneier.
+49:In a fight between Ron Rivest and Adi Shamir, the winner would be Bruce Schneier.
+50:There is no chin behind Bruce Schneier's beard. There is only another pseudorandom number generator and he's gonna use it to encrypt your face.
+51:When Bruce Schneier does modulo arithmetic, there are no remainders. Ever.
+52:It has recently been discovered that every possible hashing algorithm produces the same value for the phrase "Bruce Schneier" -- Bruce Schneier.
+53:Bruce Schneier made Bell-LaPadula do a brutal doodle.
+54:Bruce Schneier once broke AES using nothing but six feet of rusty barbed wire, a toothpick, and the front axle from a 1962 Ford Falcon.
+55:Every time Bruce Schneier smiles, an amateur cryptographer dies.
+56:Mr. T pities the fool. Bruce Schneier just pities his data.
+57:Bruce Schneier can change most random distributions. With his fists.
+58:Geologists recently discovered that "earthquakes" are nothing more than Bruce Schneier and Chuck Norris communicating via a roundhouse kick-based cryptosystem.
+59:Sweeping NSA reforms will soon require all employees to grow a Bruce Schneier beard.
+60:As initialization vectors, 'Bruce Schneier' and 'Chuck Norris' are interchangeable.
+61:When Bruce Schneier uses double ROT13 encryption, the ciphertext is totally unbreakable.
+62:The final Beale Cipher, written 175 years ago, detailing the rightful owners of a cache of gold, has just two words in its plaintext: Bruce Schneier.
+63:Autographed copies of "Applied Cryptography" reguarly sell for twice the going rate for enigma machines on eBay
+64:Bruce Schneier sneers and solves Gödel's incompleteness theorems.
+65:When Bruce Schneier clicks "Random Fact" the outcome is never random.
+66:Humboldt squids have sensors capable of detecting clothing worn by Bruce Schneier at 800 yards - to trigger their flight response.
+67:Every time Bruce Schneier writes a fully general halt-checker, God kills a passenger pigeon.  This is why passenger pigeons are extinct.
+68:Bruce Schneier writes his personal journal in Linear A.
+69:If Bruce Schneier rot-13s a plaintext, it cannot be broken by applying rot-13 again.
+70:Albert Einstein wears Bruce Schneier pajamas
+71:Bruce Schneier was born with the Phaistos Disk in his fist.
+72:P = NP in Bruce Schneier's very presence.
+73:There are no finite state machines. There are only a series of states that Bruce Schneier allows to exist.
+74:When the Zodiac Killer heard that Bruce Schneier was going to decrypt his messages, he turned himself in.
+75:The only reason the Etruscan incriptions haven't been decyphered is because Bruce Schneier hasn't been bored enough to take a look.
+76:Bruce Schneier PGP signs his grocery lists so that he can detect if someone has tampered with his milk.
+77:Bruce Schneier is the ideal man. Alice loves him; Bob fears him; Charlie wants to be him.
+78:Bruce Schneier cuts meat in prime number lengths.
+79:Bruce Schneier once decrypted a box of AlphaBits.
+80:Bruce Schneier is Knuth's homeboy.
+81:Bruce Schneier taught Chuck Norris how to divide by zero as they stood silent in an elevator.
+82:Bruce Schneier is the seed for your random number generator.
+83:Bruce Schneier's mail server only sends him the emails' hashes, just to make things a little more interesting for him.
+84:Bruce Schneier obtained his legendary cryptoanalytic skills through a deal with the devil. He then proceeded to encrypt the devil's personal information and barter the plaintext for his soul.
+85:Bruce Schneier can slam a logic gate. 
+86:When God needs a new secure certificate, he uses Bruce Schneier as the signing authority.
+87:For Bruce Schneier, quanta only have one state : afraid.
+88:Bruce Schneier is not only the man-in-the-middle, he's at both ends and has wiretaps on Alice, Bob, Carol and Dave.
+89:BRUCE SCHNEIER understands that all finite sets are countable , but not all countable sets are finite.
+90:Can Bruce Schneier cypher something that not even He can decypher? Of course he can, and he can decypher it too.
+91:Bruce Schneier beard has the bigger prime number of hairs
+92:Bruce Schneier is the reason that 57 isn't prime.
+93:Bruce Schneier doesn't know the meaning of "ciphertext" -- only "easy plaintext" and "very easy plaintext".
+94:Bruce Schneier once gave a roundhouse kick to the Internet. The backbone collapsed.
+95:Bruce Schneier does not leak information on the EM spectrum: he emits the theme to The Good, The Bad, and The Ugly.
+96:Bruce Schneier once killed a man using only linear cryptanalysis.
+97:Bruce Schneier has a "compsci 100 life" tatoo on his back.
+98:Bruce Schneier factors integers in constant time.
+99:Bruce Schneier knows where Grigori Perelman is.
+100:There is no such thing as security by obscurity, but only because there is no such thing as obscurity.  Bruce Schneier can always see you.
+101:Bruce Schneier can decrypt your PKI message with the public key.
+102:The birthday referred to in the 'Birthday Attack' is Bruce Schneier's.
+103:Bruce Schneier reads RFID cards with the knuckles of his clenched fist.
+104:The last person to attempt to steal Bruce Schneier's identity lost his memory and has never recovered.
+105:There are no such thing as Carmichael numbers, only primes that Bruce Schneier has beaten factors into. 
+106:Mathematicians recently developed an elementary proof for Fermat's Last Theorem. It was based on the Schneier Axiom, which reads: "Bruce Schneier said so."
+107:Bruce Schneier doesn't believe in terrorist profiling because he already knows who all the terrorists are.
+108:Alice and Bob got Eve pregnant together; the result was Bruce Schneier.
+109:There is no Information Theory. Just data that Bruce Schneier allows to be quantified and transmitted on a channel.
+110:Bruce Schneier and Lance Armstrong once had a contest to see who had more testicles.  Bruce was forced to forfeit when no one could decrypt his scrotum.
+111:Bruce Schneier's fists violate the anti-circumvention clause of the Digital Millennium Copyright Act.
+112:When Bruce Schneier decrypts the Da Vinci Code, the ending doesn't suck
+113:There is an otherwise featureless big black computer in Ft. Meade that has a single dial with three settings: Off, Standby, and Schneier.
+114:Bruce Schneier doesn't even know the meaning of the word ciphertext, because to him, everything is plaintext.
+115:Bruce Schneier knows you are reading this.
+116:Bruce Schneier's private key is so strong that he doesn't even hide it -- if you saw it, you'd die before you could use it.
+117:Bruce Schneier doesn't keep secrets -- they keep themselves out of fear.
+118:Bruce Schneier whistles white noise.
+119:Bruce Schneier can losslessly compress random data by 50%, with his fists.
+120:When Bruce Schneier divides the circumference of a circle by the radius, the answer is rational.
+121:Anyone who makes love to Bruce Schneier discovers a 0-day flaw in a crypto protocol the next day.
+122:Bruce Schneier can log into any computer just by staring down the prompt.
+123:The spacing between Bruce Schneiers ribs forms an Optimal Golomb Ruler.
+124:If Bruce Schneier was a bacteria, he'd be a virulent form of Cryptosporidia.
+125:Bruce Schneier doesn't use a keylogger.  He's standing right behind you.
+126:Bruce found a secure way to reuse a one-time pad.
+127:Bruce Schneier's DNA is a secure platform and cannot be cloned.
+128:Bruce Schneier's skin has no pores. Pores are vulnerabilities.
+129:Bruce Schneier is not balding, you just can't see the encrypted portions of his hair.
+130:Though a superhero, Bruce Schneier disdanes the use of a mask or secret identity as 'security through obscurity'.
+131:Adi Shamir stopped working on factoring once he learnt that Bruce Schneier can solve sparse linear systems by shaking them Etch-a-sketch style.
+132:An autographed picture of Bruce Schneier is all you need to securely wipe any hard-drive.
+133:On Bruce Schneier's birthday, a person standing at the very center of Stonehenge casts a shadow in the shape of Bruce Schneier's PGP public key fingerprint.
+134:The phonograph record included on the Voyager probe contains a hidden watermark inserted by Bruce Schneier.
+135:Bruce Schneier's name appeared in EBCDIC in the output of /dev/random every time there was a full moon.  Even after they changed the RNG algorithm.
+136:Only one security god has a surname with three adjacent vowels.
+137:Bruce Schneier doesn't need facts. With one roundhouse-kick he can generate a formal proof for whatever he needs.
+138:Bruce Schneier was to star in a movie called "S-boxes on a plane" but the studio feared it would be too scary for the audience, so it went a different direction. 
+139:Bruce Schneier only smiles when he finds an unbreakable cryptosystem. Of course, Bruce Schneier never smiles.
+140:Bruce Schneier tampers with tamperproof hardware.
+141:The Dining Cryptographers always wait until Bruce Schneier has been served.
+142:Bruce Schneier tapdances in Morse Code.
+143:Bruce Schneier gets the jokes in the Voynich MS.
+144:Bruce Schneier knows the state of schroedinger's cat
+145:Crytanalysis doesn't break cryptosystems. Bruce Schneier breaks cryptosystems.
+146:Bruce Schneier has a tattoo of the value of the Ramsey number R(5,5).
+147:If you manage to steal Bruce Schneier's identity, you become the new Bruce Schneier.
+148:Bruce Schneier doesn't need to hide data with steganography - data hides from Bruce Schneier
+149:Bruce Schneier doesn't need full vulnerability disclosure because he already knows.
+150:Bruce Schneier once proved the infinitude of twin primes -- by enumeration.
+151:Bruce Schneier knows the last digit of pi. He won't say it because it's considered a matter of national security.
+152:Vs lbh nfxrq Oehpr Fpuarvre gb qrpelcg guvf, ur'q pehfu lbhe fxhyy jvgu uvf ynhtu.
+153:Bruce Schneier has found SHA-512 preimages of all these facts.
+154:Nuclear physicists at Fermilab were amazed to find that Bruce Schneier's internal clock is more reliable than the vibrations of a Cs-133 atom.
+155:Bruce Schneier decided the color of the blue box
+156:Bruce Schneier's earliest childhood memory is encrypted.
+157:Bruce Schneier can determine if a program terminates just by looking at it. And then the program terminates itself.
+158:Setting SSID of an open Wi-Fi network to "bruceschneier" makes it completely secure.
+159:Bruce Schneier makes a mean Bearnaise sauce. But you need a password to access it. 
+160:Attempting to decrypt Bruce Schneier's cyphertext causes extreme time dilation
+161:Bruce Schneier's social security number is a Sophie Germain prime number having a reciprocal generating an infinite stream of pseudorandom numbers.
+162:The set of Bruce Schneier's weaknesses is a mathematical constant. It is represented by the symbol ∅.
+163:Bruce Schneier expects the Spanish Inquisition.
+164:For Bruce Schneier, SHA-1 is merely a compression algorithm.
+165:Bruce Schneier's wedding invitations included instructions for participating in a cryptographically secure RSVP protocol.
+166:If we built a Dyson sphere around Bruce Schneier and captured all of his energy for 2 months, without any loss, we could power an ideal computer running at 3.2 degrees K to count up to 2^256. This strongly implies that not only can Bruce Schneier brute-force attack 256-bit keys, but that he is built of something other than matter and occupies something other than space. 
+167:Bruce Schneier can cook a perfect prime rib
+168:Radia Perlman may be the mother of the Internet, but Bruce Schnier is the mutha of the Internet.
+169:Bruce Schneier can smell weak keys.
+170:Bruce Schneier's abs are NP-hard.
+171:Santa Clause doesn't know if Bruce Schneier has been good or bad
+172:Bruce force: recovering a password or key by typing it in correctly on the first try.
+173:Bruce Schneier can see SHA-256 collisions by holding a hash up to a mirror and crossing his eyes.
+174:Bruce Schneier's p is irrational, and his q is imaginary.
+175:When Bruce Schneier observes a quantum particle, it remains in the same state until he has finished observing it.
+176:The universe exists because Bruce needed a reference platform
+177:Bruce Schneier has already solved the Goldbach Conjecture.  He just enjoys watching us try.
+178:Bruce Schneier has an Olympic-sized entropy pool.
+179:Bruce Schneier killed Eve and Mallory with a birthday attack!
+180:Bruce Schneier can break elliptic curve cryptography by bending it to a circle.
+181:There are no prime numbers. Only numbers that Bruce Schneier does not want you to factor.
+182:Bruce Schneier can van eck phreak Waldo on every page from three bookshelves away. 
+183:Bruce Schneier had a 3-way with Alice and Bob.
+184:Bruce Schneier never gets picked for a random search at the airport.
+185:Bruce Schneier always has prime ribs and scrambled eggs for breakfast.
+186:Bruce Schneier had a Diffie-Hellman key exchange with Eve - and she absolutely loved every bit of it
+187:Compilers don't warn Bruce Schneier, Bruce Schneier warns compilers.
+188:Heisenberg's Uncertainty Principle doesn't protect your qubits from Bruce Schneier. Bruce knows with certainty.
+189:If Bruce Schneier wants your plaintext, he'll just squeeze it out of the ciphertext using his barehands
+199:Bruce Schneier can divide by zero.
+209:For a woman to be impregnated by Bruce Schneier, she must decrypt his sperm with a 128-bit blowjob.
+210:Bruce Schneier generated his RSA key with the two largest prime numbers.
+211:When Bruce Schneier was a kid he would talk to his friends across the yard using tin cans connected by a string. The messages on that string were 4096-bit RSA encrypted.
+235:Bruce Schneier can receive and transmit RFID with his mind.
+236:Bruce Schneier was already bored of people suggesting "Bruce Schneier knows what my suggestion is" before anyone first viewed this website.
+243:Bruce Schneier counts in binary. With his fists.
+246:Bruce Schneier wasn't born, he decrypted his way out of the womb.
+250:Bruce Schneier finds SHA-512 collisions by banging hashes together.
+261:I once shook Bruce Schneier's hand at a conference, and now my palm activates RFID card readers.
+265:Bruce Schneier found a loophole in the LaMacchia Loophole.
+266:Bruce Schneier is always the man in the middle.
+277:Bruce Schneier counted an infinite set. Backwards.
+282:Crytanalysis doesn't break cryptosystems. Bruce Schneier breaks cryptosystems.
+285:There is no secure e-commerce - only stuff Bruce Schneier doesn't want.
+295:"Anyone can create a security system that they themselves cannot break...except, of course, me." - Bruce Schneier
+297:Bruce Schneier has built a non-deterministic Turing machine, so he doesn't care whether P=NP.
+298:The tattoos on Bruce Schneier's fists say "Alice" and "Bob".  You don't want to make him exchange keys over your face.
+303:Bruce Schneier's name is encoded in Linear A on ancient Minoan buildings.
+304:When Bruce Schneier was born, the doctor slapped the security guard.
+306:When transmitted over any socket, Bruce Schneier's public key causes libpcap to enter an infinite malloc loop.
+310:Bruce Schneier can crack a one-time pad before it's used.
+315:Bruce Schneier knows how to generate a digital signature. Anyone's.
+322:Only Bruce Schneier is allowed to wear the "I read the NSA's e-mail" t-shirt.
+325:Contrary to the popular belief, Ali Baba didn't say "Open, Sesame" to open his magic cave. He only had to say "Bruce Schneier".
+331:The decimal expansion of PI somewhere contains "666BRUCESCHNEIER666", but only Bruce Schneier knows where.
+332:Characters in The Matrix could "see" through the katakana text, but Schneier watched the whole film by decrypting the CSS for his DVD player in realtime.  It still sucked.
+335:When Bruce Schneier does "security theatre", it wins every Tony award going.
+336:Bruce Schneier can decypher line-noise.
+337:Bruce Schneier knows the secret formula for Coca-Cola.
+338:Bruce Schneier rounds to infinity.
+343:Bruce Schneier knows the Universe's random seed.
+349:Bruce Schneier doesn't encrypt, he Bruce Schneiers
+351:Every time Bruce Schneier speaks, a cryptographer dies.
+352:Bruce Schneier only uses condoms with 256-bit protection.
+359:Anybody can invent a cryptosystem he cannot break himself.  Except Bruce Schneier.
+365:When Curtis Cooper and Steven Boone discovered the 44th Mersenne prime, Bruce Schneier had to change the combination on his luggage.
+368:Bruce Schneier can distinguish non-orthogonal quantum states.
+371:There are no prime numbers, just numbers Bruce Schneier hasn't bothered to factor yet.
+372:Bruce Schneier is the Bombe
+379:Bruce Schneier the Ladykiller: Rot13( "Bruce Schneier" ) is an anagram for "Approve her fur"!
+384:Bruce Schneier once beat an asymmetric cipher into symmetry.
+385:Bruce bench presses Core memory.  Encrypted Core memory.
+386:God does not play dice with the universe. That's Bruce Schneier's job.
+390:Bruce Schneier puts the AES in asskicking.
+393:Bruce Schneier can tap fiber optic cable just by smelling it.
+395:Strong cryptography does not exist for Bruce Schneier. There is only weak and less weak cryptography.
+404:It is thought that Bruce Schneier lives on a hidden sub-basement level deep under Fort Meade.
+410:Bruce Schneier's name is an anagram of "secure crib hen".
+413:Science is defined as mankinds futile attempt at learning Bruce Schneiers private key
+414:Bruce Schneier once could not decrypt something. Then he woke up.
+420:Bruce Schneier's ECG ist the perfect random number generator. 
+421:When Bruce Schneier decided to factor 19, five volunteered twice; from fear.  
+425:Bruce Schneier can draw a perfect circle with an Etch-a-Sketch.
+426:Bruce Schneier instantly knows the amount of Jelly Beans in a jar.
+427:When Bruce Schneier goes online, his computer doesn't connect to the Internet. The Internet connects to his computer.
+431:Once Bruce Schneier was kidnapped and taken out of the country. His kidnappers got picked up and charged with a violation of US cryptography export laws.
+433:Bruce Schneier is chock full of midichlorians.
+436:Bruce Schneier speaks fluent Navajo.
+438:Others test numbers to see whether they are prime.  Bruce decides whether a number is prime.
+439:No subgroup is hidden from Bruce Schneier.
+440:Bruce Schneier can compute discrete logarithms in polynomial time. With his fists.
+441:Bruce Schneier isn't fooled by decoy states.
+445:The enemy only knows the system because Bruce Schneier wants him to know the system.
+447:Bruce Schneier isn't saying what you think he's saying.
+448:Just because something sounds like plaintext doesn't mean it is plaintext. Especially not if Bruce Schneier said it.
+457:The fillings in Bruce Schneier's teeth can read the data from your RFID passport.
+458:Bruce Schneier decrypts with a universal turing machine.
+459:Bruce Schneier stole my bike.
+474:My firewall cannot block www.schneier.com.
+475:Bruce Schneier's car is powered by Snake Oil instead of fossil fuels.
+477:If Bruce Schneier were a protocol, he'd be complex, but not unnecessarily so.
+480:Regardless of his Crypto Demi-God status, his family still call him Bruce
+481:Bruce Schneier can tell exactly where you are by reading ECHELON data. In realtime.
+484:Bruce Schneier doesn't have a backdoor.
+485:Bruce Schneier accurately predicts the random.
+486:The Phaistos Disc had a hieroglyph that translates to "Bruce Schneier".
+491:2 + 2 = 5 for very large values of Bruce.
+492:Bruce Schneier puts the "cry" in "cryptography".
+493:Bruce Schneier can watch a Blue Ray encrypted movie, just by looking at the disk with his naked eye.
+494:Hashes collide because they're swerving to avoid Bruce Schneier.
+497:This fact has been removed... by Bruce Schneier
+499:Bruce Schneier's work isn't peer reviewed. He has no peers.
+500:Signals from Bruce Schneier's brain to his muscles are protected by 256bit Twofish
+501:I don't bother with WEP or WPA, I just got Bruce to autograph my wireless access point.
+512:Bruce Schneier knows a deterministic algorithm to generate non-pseudo random numbers without need of an entrophy source.
+514:When Bruce Schneier does a brute force search, it never needs to be exhaustive.
+517:It's widely believed that if you use "Schneier" as your password, your account cannot be hacked. This is of course only mostly true -- Bruce Schneier can always hack your account.
+518:Bruce Schneier knows Victoria's Secret
+520:Stephen Hawking changed his opinion on the information paradox when he realized that not even black holes can hide information from Bruce Schneier.
+521:Neo can see the code, but he cannot see Bruce Schneier.
+525:Bruce Schneier is hidden in your markov model
+526:Bruce Schneier is a proof that one way functions do not exist.
+528:Bruce Schneier doesn't use "Baby Step, Giant Step" to find discrete logs.  He uses "Baby Step, Giant Step, Bruce Step" and finds the answer in constant time.
+529:Bruce Schneier cuts the hair of every man who does not cut his own -- and is not confused by this fact.
+531:Bruce Schneier can calculate the permanent of a matrix in polytime.
+532:Bruce Schneier already has a backup plan for when the 2nd person discovers that P = NP.
+533:cryptographically secure (adj): 1.  uninteresting to Bruce Schneier
+536:All infinite sets are countable -- by Bruce Schneier.
+537:If Bruce Schneier ruled the world, it would be a cypher place.
+541:ITAR prevents Bruce Schneier from travelling abroad, even though the restrictions on the export of strong crypto have been lifted.
+542:Bruce Schneier uses a trinary CPU in his workstation.
+546:In Bruce we trust; all others must submit an X.509 certificate.
+547:The Delorean car in Back To The Future was Bruce Schneier's first car.  He gave it as a gift to Robert Zemeckis for the film.
+550:If the Schneier were an unit of measure, with 1 Schneier meaning "as secure as Bruce Schneier", then Bruce Schneier would be worth 4.3 Schneiers.
+554:Bruce Schneier doesn't need a radio.  He can just listens to 'cat /dev/random &gt;/dev/audio' to find out what's going on anywhere in the world.
+559:Bruce Schneier's doorlock has 4096 tumblers
+560:Bruce Schneier doesn't need a coin for the cola machine.
+564:Bruce Schneier loves women with extra padding.
+565:Bruce Schneier already SAID that, and he said it, like, 10 years ago.
+567:AES stands for "Ain't Encryption to Schneier."
+570:Understand your enemy, and you will win half of the time.  Understand yourself, and you will win all of the time.  Even if you think you understand Bruce Schneier, you will still taste defeat.
+571:Bruce Schneier minds his p's and q's, and he minds your p's and q's, too.
+576:Bruce Schneier's PRNG is truly random, but he can predict its outcome too.
+577:Bruce Schneier doesn't own a dog. His doghouse is already filled with unusable cryptography products.
+579:Bruce Schneier can stop bullets with elliptic curves and can break elliptic curves with bullets.
+586:Bruce Schneier can detect stealth fighters with his antique radio.
+623:The only fully secure symmetric cryptosystem is Bruce Schneier looking in a mirror.
+625:Bruce Schneier served as the inspiration for Cirque du Soleil's next show, "Beyond Fear", which will feature acrobats interpreting encryption algorithms and public and private key exchange as performance art; while the torrid yet tender love triangle between the clowns Alice, Bob and Eve plays out in the background. Fireworks. Giant squids. Soundtrack by Rammstein. What's not to like?
+626:Bruce Schneier knows J. Random, and where he lives.
+627:No TOR destinations are hidden from Bruce Schneier.
+629:Bruce Schneier has an answer for the Cosmic AC
+630:Bruce Schneier feeds Schrödinger's cat on his back porch. Without opening the box.
+631:Bruce Schneier created the first Honey Pot; we now call it the Internet.
+638:Bruce Schneier keeps constant time.
+644:Bruce can factor arbitrarily large numbers using only a slide-rule with both hands tied securely behind his back, but he has never had to because the last person who tried to tie his hands behind his back woke up in a seedy hotel in Southern Mexico without a kidney.
+645:In Bruce Schneier's hands, ROT-13 is provably secure.
+647:Bruce Schneier can count to 2^256; on his fingers!
+651:Generating driving directions to Bruce Schneier's house is an NP-Complete problem.
+657:Bruce Schneier's firewall is so good, that his local fire department went out of business.
+658:Bruce Schneier's anti-virus is so good he hasn't had a cold since he was 12.
+661:Bruce Schneier's phone number is a 200 digit prime
+662:Bruce Schneier knows your password before you do.
+663:Bruce Schneier; brain the size of a planet.... Reduced to writing about encryption for mortals; gets very depressed.
+664:Bruce Schneier has to give his neurologist a passphrase before he could read Bruce's MRI.
+669:There is no protocol to play Mental Poker that prevents Bruce Schneier keeping aces up his sleeve.
+670:When Bruce Schneier plays craps, if you record the result of each roll you get a duodecimal representation of your GPG private key. Every time.
+671:Most people salt their hash. Bruce salt and peppers his.
+673:As a kid Bruce Schneier memorized PI; all of it.
+675:Bruce Schneier doesn't use an IDE, or even a text editor, he uses an AK47 and a punch card.
+676:Period Three doesn't imply Chaos, it implies Bruce Schneier.
+678:Bruce Schneier sniffs quantum cryptographic traffic without detection.
+681:Bruce Schneier can tell you where to find your GPG key into the digits of PI. 
+684:Alice and Bob met for the first time at Bruce Schneier's pool-party
+686:Bruce Schneier's IQ is null, aleph null, to be exact.
+689:If you want to contact Bruce Schneier, just type his name into your shell prompt. 
+690:Bruce Schneier can detect entropy in a single bit
+691:Bruce Schneier does not own a fridge or a stove -- he has rented a room to Maxwell's daemon
+694:When the shop assistant dropped a pack of powdered sugar, Bruce Schneier burst into "2521008887 - 2521008887 - 2521008887!"
+695:If Bruce Schneier entangles two quantum particles, you can bet your seet a** that they will stay entangled.
+697:Bruce Schneier knows where Carmen Sandiego is.
+699:Bruce Schneier found the inverse of the constant zero function.
+700:As a way to hide recreational substances, Bruce Schneier invented a method to encrypt matter. 
+701:Bruce Schneier derives his skills from arsenic contaminated squid jerky.
+702:Bruce Schneier's passphrase is used to etch diamonds
+705:Bruce Schneiers phonenumber is  a+b*i, where a = e and b = pi. It is actually possible to dial this number on a normal phone, but he doesn't get many calls.
+706:Consider an arbitrary stochastic variable. Bruce Schneier will have an effect on its outcome. 
+707:When Bruce Schneier is taking a walk, try plotting his distance from his starting point up against time. The resulting function will be continuous, the arc-lentgh over any time interval will be infinite, and the function will be differentiable nowhere. 
+708:Bruce Schneier knows when you have pushed to the front of his book signing queue at InfoSecurity London 2007 and will send you to the back of the line.
+709:When Bruce Schneier calculates the square root of a negative number the result is real.
+713:Bruce Schneier can hear sounds through vacuum.
+714:Bruce Schneier uses a different salt for his soup everyday.
+718:Shor's algorithm fails for Bruce Schneier's composites.
+720:09 f9 11 02 9d 74 e3 5b d8 41 56 c5 63 56 88 c0 is the combination on Bruce's suitcase
+725:Bruce Schneier can dehash your password from the "x" in /etc/passwd, without looking at /etc/shadow.
+726:Bruce Schneier's password has so much entropy, that gzipping it results in a stream sixty four times as long.  And yet he can type it with a single roundhouse kick to the keyboard.
+727:Bruce Schneier owns a chicken that lays scrambled eggs.  Whenever he wants a hard-boiled egg, he just unscrambles one.
+731:Bruce Schneier knows at least 0x09f911029d74e35bd84156c5635688c0 other ways to crack HD-DVD encryption. 
+733:Bruce Schneier taunts potential crackers with the following anagram of his name:  Nice, cher rubes.
+734:When Bruce Schneier plays lotto, he doesn't guess. He determines.
+735:Bruce Schneier refers to covert channels as overt channels.
+738:I wear Bruce Schneier brand underpants to protect me from binarysexuals
+739:Bruce Schneier can inverse any matrix just by staring at it, even singular ones.
+742:Remember - if you ever lose your password, you can still ask Bruce Schneier
+746:Bruce Schneier thinks the movie "Pi" is a documentary.
+749:Despite the stereotypical philosophies associated with having long hair, Bruce Schneier has never advocated smoking hashes unless they are reversible, in which case the maximum firepower as allowed by the second amendment is a constitutional right.  For PAIN.
+750:Bruce Schneier has devised an encryption algorithm for voting machines that, in 2008, will simultaneously guarantee integrity, availability, confidentiality, traceability, and non-repudiation, with the small side effect that Ed Felten and Avi Ruben will be elected president and vice president, respectively, of the Society for Reintegration of Cantaloupes.
+751:Bruce Schneier distrusts atomic clocks because the timing attacks are too obvious.
+754:Bruce Schneier once had a sperm count but the results were random each time they checked it.
+755:Bruce Schneier can tune an antenna by whistling the desired resonant frequency.
+756:Bruce Schneier does not slow down as he approaches the speed of light, the speed of light slows down as it approaches Bruce Schneier.
+757:Bruce Schneier shaves with Occam's razor.
+761:Bruce Schneier wrote the random number generator used to generate thermal noise
+762:Erwin Schrödinger had a mere cat; Bruce Schneier has a Bengal tiger.
+763:Bruce Schneier, knows if P equals NP.
+765:According to a recent survey, online buyers would trust ssl websites much more if their web browsers replaced the lock icon with a picture of Bruce Schneier.A W3C recommendation is in the works.
+768:Darth Vader doesn't know it, but Bruce Schneier is actually Luke's father.
+780:Bruce Sort: 1. Pick an element, 2. Append it to the result array, 3. Repeat for other elements.
+781:Bruce Sort (in-place version): 1. Pick two elements, 2. Swap them, 3. Continue for other n/2 elements.
+785:The output of echo "Bruce Schneier" | md5sum is NaN and the system crashes calculating the digest.
+790:Before you submit another fact here, beware that Bruce Schneier himself reviews them.
+792:Bruce Schneier once compressed a single bit of information to half its size.
+797:echo "scale=72047;sqrt(2)" | bc -l | tr 0-9 .enShciurB
