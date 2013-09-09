@@ -1,15 +1,15 @@
-class ExcusePlugin < Plugin
-  # excuses courtesy of http://www.cs.wisc.edu/~ballard/bofh/
-@@excuses = [
+class BruceFactPlugin < Plugin
+  # 
+@@facts = [
 
 ]
 
   def help(plugin, topic="")
-    "excuse => supply a random excuse"
+    "brucefact => supply a random Bruce Schneier fact"
   end
 
-  def excuse(m, params)
-    m.reply @@excuses.pick_one
+  def fact(m, params)
+    m.reply @@facts.pick_one
   end
 end
 
